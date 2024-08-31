@@ -1,0 +1,10 @@
+D:\Ayuda\Chuy\VisualBasic\Bote de basura\Bote de basura\bin\Debug\Bote de basura.exe.config
+D:\Ayuda\Chuy\VisualBasic\Bote de basura\Bote de basura\bin\Debug\Bote de basura.exe
+D:\Ayuda\Chuy\VisualBasic\Bote de basura\Bote de basura\bin\Debug\Bote de basura.pdb
+D:\Ayuda\Chuy\VisualBasic\Bote de basura\Bote de basura\obj\Debug\Bote de basura.csproj.AssemblyReference.cache
+D:\Ayuda\Chuy\VisualBasic\Bote de basura\Bote de basura\obj\Debug\Bote_de_basura.Form1.resources
+D:\Ayuda\Chuy\VisualBasic\Bote de basura\Bote de basura\obj\Debug\Bote_de_basura.Properties.Resources.resources
+D:\Ayuda\Chuy\VisualBasic\Bote de basura\Bote de basura\obj\Debug\Bote de basura.csproj.GenerateResource.cache
+D:\Ayuda\Chuy\VisualBasic\Bote de basura\Bote de basura\obj\Debug\Bote de basura.csproj.CoreCompileInputs.cache
+D:\Ayuda\Chuy\VisualBasic\Bote de basura\Bote de basura\obj\Debug\Bote de basura.exe
+D:\Ayuda\Chuy\VisualBasic\Bote de basura\Bote de basura\obj\Debug\Bote de basura.pdb
