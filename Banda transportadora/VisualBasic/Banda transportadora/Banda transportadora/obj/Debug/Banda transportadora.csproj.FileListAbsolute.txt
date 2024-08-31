@@ -1,0 +1,10 @@
+D:\Ayuda\Angie\VisualBasic\Banda transportadora\Banda transportadora\obj\Debug\Banda transportadora.csproj.AssemblyReference.cache
+D:\Ayuda\Angie\VisualBasic\Banda transportadora\Banda transportadora\obj\Debug\Banda_transportadora.Form1.resources
+D:\Ayuda\Angie\VisualBasic\Banda transportadora\Banda transportadora\obj\Debug\Banda_transportadora.Properties.Resources.resources
+D:\Ayuda\Angie\VisualBasic\Banda transportadora\Banda transportadora\obj\Debug\Banda transportadora.csproj.GenerateResource.cache
+D:\Ayuda\Angie\VisualBasic\Banda transportadora\Banda transportadora\obj\Debug\Banda transportadora.csproj.CoreCompileInputs.cache
+D:\Ayuda\Angie\VisualBasic\Banda transportadora\Banda transportadora\bin\Debug\Banda transportadora.exe.config
+D:\Ayuda\Angie\VisualBasic\Banda transportadora\Banda transportadora\bin\Debug\Banda transportadora.exe
+D:\Ayuda\Angie\VisualBasic\Banda transportadora\Banda transportadora\bin\Debug\Banda transportadora.pdb
+D:\Ayuda\Angie\VisualBasic\Banda transportadora\Banda transportadora\obj\Debug\Banda transportadora.exe
+D:\Ayuda\Angie\VisualBasic\Banda transportadora\Banda transportadora\obj\Debug\Banda transportadora.pdb
